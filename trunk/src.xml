@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/home/lore/workspace/BuonGiorno/CronModules/src/vada2csv.xsl"?>
+<widgets type="array">
+
+        <widget id="http://mwpsit.vfnet.de/de/widgets/32-Example">
+                <title>Example widget</title>
+                <group-id>Example</group-id>
+                <description>Lorem ipsum dolor sit amet, consectetur adipisicing</description>
+                <status>active</status>
+                <owner href="http://mwpsit.vfnet.de/de/users/1" />
+                <archives>
+                        <archive>
+                                <platform>vf_owm</platform>
+                                <download-url href="http://192.168.122.92:90/heart.jpg" />
+                                <adl-id>de-Example-vf_owm</adl-id>
+                        </archive>
+                </archives>
+                <screenshots>
+                        <screenshot href="http://192.168.122.92:90/heart.jpg" />
+                        <screenshot href="http://192.168.122.92:90/heart.jpg" />
+                        <screenshot href="http://192.168.122.92:90/heart.jpg" />
+                </screenshots>
+                <tags>
+                        <tag>Test</tag>
+                </tags>
+                <icon href="http://192.168.122.92:90/heart.jpg" />
+
+                <id type="integer">32</id>
+
+                <created-at type="datetime">2008-11-21T14:20:33+01:00</created-at>
+                <updated-at type="datetime">2008-11-21T14:20:35+01:00</updated-at>
+
+                <user-id type="integer">1</user-id>
+
+                <categories>
+                        <category>News</category>
+                </categories>
+
+                <opco-id>DE</opco-id>
+                <service-id>1</service-id>
+                <rating system="legal" value="18" />
+
+                <related-query keywords="Lorem ipsum dolor sit amet" />
+
+        </widget>
+
+
+
+
+        <widget id="http://mwpsit.vfnet.de/de/widgets/33-Example">
+                <title>Example widget22</title>
+                <group-id>Example</group-id>
+                <description>elit, sed do eiusmod tempor incididunt ut labore et dolore magna</description>
+                <status>active</status>
+                <owner href="http://mwpsit.vfnet.de/de/users/1" />
+                <archives>
+                        <archive>
+                                <platform>vf_owm</platform>
+                                <download-url href="http://192.168.122.92:90/heart.jpg" />
+                                <adl-id>de-Example-vf_owm</adl-id>
+                        </archive>
+                </archives>
+                <screenshots>
+                        <screenshot href="http://192.168.122.92:90/heart.jpg" />
+                        <screenshot href="http://192.168.122.92:90/heart.jpg" />
+                        <screenshot href="http://192.168.122.92:90/heart.jpg" />
+                </screenshots>
+                <tags>
+                        <tag>Test</tag>
+                </tags>
+                <icon href="http://192.168.122.92:90/heart.jpg" />
+
+                <id type="integer">33</id>
+
+                <created-at type="datetime">2008-11-21T14:20:33+01:00</created-at>
+                <updated-at type="datetime">2008-11-21T14:20:35+01:00</updated-at>
+
+                <user-id type="integer">1</user-id>
+
+                <categories><category>Info</category></categories>
+
+                <opco-id>DE</opco-id>
+                <service-id>1</service-id>
+                <rating system="legal" value="18" />
+
+                <releted-query keywords="Lorem ipsum dolor sit amet" />
+                <relateds>
+                        <related>http://mwpsit.vfnet.de/de/widgets/32-Example</related>
+                </relateds>
+
+        </widget>
+
+</widgets>
