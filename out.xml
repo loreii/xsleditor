@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:xsn="http://www.vodafone.com/superstore/1.0"
+	id="da add">
+	<TITLE>Pool3D</TITLE>
+	<DESCRIPTION>The game is a single player 8 ball pool play. The table
+		is seen in a top down view. There will be two basic view mode. A close
+		view or full view. In the full view, the whole table is visible for a
+		good overview of all movement, and in the close view you can zoom in
+		on the table to adjust your settings more accurately, while scrolling
+		the view around as needed.</DESCRIPTION>
+	<ICON>Pool3D</ICON>
+	<LINK>
+		<TITLE>Pool3D
+			download link
+				</TITLE>
+		<URL />
+	</LINK>
+	<SERVICEID />
+	<RATING system="legal" value="18" />
+	<RATE_COUNT>0</RATE_COUNT>
+	<RATE_AVG>0.0</RATE_AVG>
+	<DOWNLOADS>0</DOWNLOADS>
+	<UPDATE-DATE>2006-05-30T05:42:05+0200</UPDATE-DATE>
+</item>
